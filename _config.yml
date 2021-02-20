@@ -102,7 +102,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:ponkiland311@gmail.com"
+       url: mailto:ponkiland311@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://ponkiland.github.io"
