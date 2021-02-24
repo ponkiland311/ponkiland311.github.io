@@ -2,6 +2,7 @@
 title: "Welcome To PONKILAND"
 permalink: /about/
 layout: single
+author_profile: true
 ---
 
 > ## ブログの目的
