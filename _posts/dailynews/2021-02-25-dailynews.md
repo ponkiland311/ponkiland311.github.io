@@ -1,0 +1,41 @@
+---
+title: Daily news 2021/02/25
+layout: single
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+popular: true
+categories:
+ - Daily news
+#toc: true
+#toc_sticky: true
+#toc_label: 目次
+description: Daily news
+article_tag1: Daily news
+#article_tag2:
+#article_tag3:
+#article_section: 깃 블로그 따라하기
+meta_keywords: 米国株,米国テック企業,Nasdaq
+last_modified_at: 2021-02-25T00:00:00+08:00
+---
+> ## Daily news
+
+**【NVIDIAの（NVDA.US）】**   
+　FY4Q21、過去最大の四半期実績、期待値を上回る
+
+**【ASML（ASML.US）】**  
+　韓国のSKハイニックス、2025年までにEUV露光機の導入に4.8兆ウォン投資
+
+**【ウォルト・ディズニー・（DIS.US）】**  
+　ワクチンの導入により、テーマパークの需要が戻ってくる可能性あり
+
+**【セールスフォース（CRM.US）】**  
+　大規模なソフトウェア銘柄の中でPERが最も低い
+
+**【LVMH（MC.FP）】**  
+　「Age Down」狙うLVMH、有名歌手のJayZのシャンパンブランドに投資
+
+**【ファイザー（PFE.US）】**  
+　脳炎ワクチンティコバックFDA迅速審査の承認
