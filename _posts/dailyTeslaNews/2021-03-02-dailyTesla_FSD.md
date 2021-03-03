@@ -1,5 +1,5 @@
 ---
-title: Daily Tesla(2021/03/02):FSDのSubscription
+title: Daily Tesla 2021/03/02
 layout: single
 author_profile: true
 read_time: true
@@ -20,7 +20,7 @@ article_tag1: Tesla News
 #article_tag3:
 #article_section: 깃 블로그 따라하기
 meta_keywords: Tesla,Tesla News,テスラ
-last_modified_at: 2021-02-22T00:00:00+08:00
+last_modified_at: 2021-03-02T00:00:00+08:00
 ---
 
 ## FSDのSubscription化を予告
