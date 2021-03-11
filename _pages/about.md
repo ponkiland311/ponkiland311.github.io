@@ -2,6 +2,8 @@
 title: "Welcome To PONKILAND"
 permalink: /about/
 layout: single
+toc_sticky: true
+toc_ads : true
 author_profile: true
 ---
 
