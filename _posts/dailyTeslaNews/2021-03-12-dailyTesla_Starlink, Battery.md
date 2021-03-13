@@ -1,5 +1,5 @@
 ---
-title: Daily Tesla 2021/03/11
+title: Daily Tesla 2021/03/12
 layout: single
 author_profile: true
 read_time: true
@@ -20,7 +20,7 @@ article_tag1: Tesla News
 #article_tag3:
 #article_section: 깃 블로그 따라하기
 meta_keywords: Tesla,Tesla News,テスラ
-last_modified_at: 2021-03-11T00:00:00+08:00
+last_modified_at: 2021-03-12T00:00:00+08:00
 ---
 
 ## テスラFermont工場に火事
@@ -43,6 +43,8 @@ Deployされる姿です！
 ## Portugalの太陽光発電プロジェクト
 
 Protugalにて、テスラのバッテリを利用した太陽光発電プロジェクトが行われています。このプロジェクトにより、Protugal全国の太陽光発電の容量が２倍になります
+
+<center><img src="https://user-images.githubusercontent.com/78955983/110947053-030bee00-8383-11eb-8ca8-2dae0ceaa980.png"></center>
 
 ## Model3は中国ににてクレームが最も少ない車種
 
