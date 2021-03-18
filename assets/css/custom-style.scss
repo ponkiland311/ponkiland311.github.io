@@ -1,0 +1,70 @@
+---
+---
+
+// ##
+.page__content h2{
+    margin-top: 3em;
+}
+
+.page__content h2:before {
+    content: '|';
+    color: #ff8d37;
+    margin-right: 0.3em;
+
+}
+
+// ####
+.page__content h4{
+    margin-top: 2.3em;
+}
+
+.page__content h4:before {
+    content: '▪︎';
+    color: #ffb67c8c;
+    margin-right: 0.3em;
+}
+
+// for footnotes
+.footnotes {
+    margin-top: 2.5em;
+}
+
+// ` `
+p>code, a>code, li>code, figcaption>code, td>code {
+    background: #dadada !important;
+}
+
+p.page__lead>code {
+    color: #000000;
+    text-shadow: none;
+}
+
+// for sidebar active
+.nav__list .nav__items .active {
+    color: #077d00;
+}
+
+// top navigation mouse over
+.greedy-nav .visible-links a:before {
+    width: 0 !important;
+}
+
+.greedy-nav .visible-links a:hover{
+    color: #077d00;
+}
+
+// author links
+ul.author__urls.social-icons a:hover{
+    text-decoration: none;
+    color: #077d00;
+}
+
+// code tag for single-study layout
+section.page__content.single-study p>code,
+section.page__content.single-study a>code,
+section.page__content.single-study li>code,
+section.page__content.single-study figcaption>code,
+section.page__content.single-study td>code {
+    background: rgb(0, 181, 173) !important;
+    color: rgb(255, 255, 255);
+}
