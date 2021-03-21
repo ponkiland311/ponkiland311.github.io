@@ -59,6 +59,30 @@ h6 {
   font-size: $h-size-6;
 }
 
+
+// ##
+.page__content h2{
+    margin-top: 3em;
+}
+
+.page__content h2:before {
+    content: '|';
+    color: #ff8d37;
+    margin-right: 0.3em;
+
+}
+
+// ####
+.page__content h4{
+    margin-top: 2.3em;
+}
+
+.page__content h4:before {
+    content: '▪︎';
+    color: #ffb67c8c;
+    margin-right: 0.3em;
+}
+
 small,
 .small {
   font-size: $type-size-6;
@@ -112,11 +136,16 @@ blockquote {
   margin: 2em 1em 2em 0;
   padding-left: 1em;
   padding-right: 1em;
-  font-style: italic;
+  //font-style: italic; //change
   border-left: 0.25em solid $primary-color;
+  //color: #ff8d37; //add
+  //border-left-color: #767676;
+  border-left-color: #ff8d37; //color
+
 
   cite {
-    font-style: italic;
+    // font-style: italic; //change
+
 
     &:before {
       content: "\2014";
@@ -124,6 +153,7 @@ blockquote {
     }
   }
 }
+
 
 /* links */
 
