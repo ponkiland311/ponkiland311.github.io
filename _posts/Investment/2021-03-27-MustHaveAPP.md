@@ -58,14 +58,12 @@ last_modified_at: 2021-03-26 T00:00:00+08:00
 4. 日本語で情報提供
 5. PC / App　両方提供
 
-
 ## CNBC
 #### CNBCの特徴
 - 世界経済、企業のニュースを提供
 
 <center><img src="https://user-images.githubusercontent.com/78955983/112707528-7a975c80-8eef-11eb-8da6-730bb4b4ad98.png"></center>
 <br>
-
 
 #### 提供機能
 
