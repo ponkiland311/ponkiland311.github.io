@@ -1,5 +1,5 @@
 ---
-title: 米国株必須アプリ！！
+title: 米国株必須アプリ
 author_profile: true
 read_time: true
 comments: true
@@ -20,7 +20,7 @@ meta_keywords: 米国株投資
 last_modified_at: 2021-03-26 T00:00:00+08:00
 ---
 
-## 米国株投資の必須アプリについて
+# 米国株投資の必須アプリについて
 
 ## Webull
 #### Webullの特徴
@@ -29,9 +29,10 @@ last_modified_at: 2021-03-26 T00:00:00+08:00
 - シンプルなインタフェース提供
 
 <center><img src="https://user-images.githubusercontent.com/78955983/112707521-710df480-8eef-11eb-8f40-f778a3b80831.png"></center>
+<br>
 
 
-**提供機能**
+#### 提供機能
 
 1. Delayなしの現在の株価情報を提供
 2. Premarket, After market時間の情報も提供
@@ -47,8 +48,9 @@ last_modified_at: 2021-03-26 T00:00:00+08:00
 - 株だけではなく、多様な資産群について情報提供
 
 <center><img src="https://user-images.githubusercontent.com/78955983/112707525-74a17b80-8eef-11eb-98dd-e4165d2d9839.png"></center>
+<br>
 
-**提供機能**
+#### 提供機能
 
 1. Delayなしの現在の株価情報を提供
 2. 各国のIndex指数、先物の指数情報提供
@@ -57,16 +59,15 @@ last_modified_at: 2021-03-26 T00:00:00+08:00
 5. PC / App　両方提供
 
 
-
-
 ## CNBC
 #### CNBCの特徴
 - 世界経済、企業のニュースを提供
 
 <center><img src="https://user-images.githubusercontent.com/78955983/112707528-7a975c80-8eef-11eb-8da6-730bb4b4ad98.png"></center>
+<br>
 
 
-**提供機能**
+#### 提供機能
 
 1. 全般的に最も使いやすインタフェースのニュースアプリ
 2. 米国の政治、経済、全般に対するメインニュース確認可能
